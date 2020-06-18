@@ -1,0 +1,386 @@
+
+
+
+
+<!--html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40"-->
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gbk">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<title>简历预览</title>
+<script language="JavaScript" type="text/javascript" src="/js/jquery/jquery.js"></script>
+<style media="all">
+body {width:680px;margin:0;padding:0; font-size:12px; color:#666; font-family:Arial, Helvetica, sans-serif}
+#header table {border-bottom:#06C 2px solid;margin-bottom:1px;}
+.nameBox {
+	padding-bottom:10px;
+}
+.nameBox span { color:#444}
+.nameBox #userName {font-size:1.8em; font-family:"微软雅黑","yahei","宋体";color:#06C}
+.nameBox span {margin-right:10px;}
+h1 {font-size:16px;height:40px; line-height:40px;margin:0;padding:0; font-family:"微软雅黑","黑体"; }
+.wrap {margin:0 auto;padding:10px;width:650px; background:#FFF;}
+.unitWrap {width:650px;margin-top:10px; overflow:hidden; clear:both;}
+.first {margin-top:0px;}
+.unitWrap .tbody {border:#DDD 0px solid; }
+.unitWrap .thead {margin-bottom:1px;}
+.unitWrap .thead th
+{padding-left:10px;
+ text-align:left;
+ font-size:14px;
+ height:30px; 
+ line-height:30px; 
+ color:#0066cc;
+border-bottom:#06c 1px solid;
+}
+
+.unitWrap .tbody td {padding-left:0px;height:30px; line-height:30px; border-bottom:#DDD 1px dotted; color:#555555}
+.unitWrap table td.area {line-height:22px;padding:10px;}
+.unitWrap table td.alignR {padding-left:0;color:#666; font-weight:bold; text-align:right;padding-right:0px;}
+.unitWrap table td.alignR strong {color:#777;}
+
+.btnBox {text-align:center;padding:20px 0 40px;}
+.btnBox a {display:inline-block; padding:0 15px; height:30px; line-height:30px; text-decoration:none;margin-right:10px; font-size:14px;}
+.btnBox a.print {background:#06c; color:#FFF;padding:0 20px}
+.btnBox a.print:hover {background:#e86005;}
+.btnBox a.close {background:#CCC; color:#000;}
+.btnBox a.close:hover {background:#DDD; color:#000;}
+strong { color:#494949;}
+</style>
+<style media="print">
+.btnBox {display:none;}
+.unitWrap .tbody td {padding-left:10px;height:24px; line-height:24px; border-bottom:#CCCCCC 1px solid;}
+.nameBox #userName {font-size:1.8em; font-family:"微软雅黑","yahei","黑体";color:#000000}
+</style>
+</head>
+</head>
+<body>
+<div class="wrap">
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" border="0" width="650">
+<tr><td>
+
+<div class="wrap">
+<div id="header" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" id="headerTable">
+
+  <tr>
+    <td width="72%" height="20" class="topBar" style="border-bottom:#DDD 1px solid">&nbsp;www.zh-hr.com</td>
+    <td width="28%" rowspan="2" align="right"><img src="http://www.zh-hr.com/style/images/logo_01.gif" height="40" /></td>
+  </tr>
+  <tr>
+    <td class="topBar">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="nameBox">
+		<span><strong id="userName">&nbsp;柯茂波</strong> &nbsp;的简历</span>
+		<span>[普通求职]</span>
+		<span>简历编号：1594846</span>
+		<span>更新时间：2017-07-28</span></td>
+  </tr>
+</table>
+
+</div>    
+<div id="basic" class="unitWrap first">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+    <tr>
+    <td width="24%" rowspan="7" align="center" valign="top" style="padding-top:10px;">
+							
+								<img width="98px" height="124px" src="http://www.zh-hr.com/disppersonimage?owner=1&person=1594846&defaultimg=/jsp/person/p_images/photo_default.gif"/>
+							</td>
+      <td width="15%" class="alignR"><strong>姓　　名：</strong></td>
+      <td width="23%">柯茂波</td>
+      <td width="15%" class="alignR"><strong>性　　别：</strong></td>
+      <td width="23%">男</td>
+      
+    </tr>
+    <tr>
+      <td class="alignR"><strong>民　　族：</strong></td>
+      <td>汉族</td>
+      <td class="alignR"><strong>出生日期：</strong></td>
+      <td>1992-09-14</td>
+    </tr>
+    <tr>
+      <td class="alignR"><strong>户　　籍：</strong></td>
+      <td>茂名市</td>
+      <td class="alignR"><strong>身　　高：</strong></td>
+      <td>168cm</td>
+    </tr>
+    <tr>
+      <td class="alignR"><strong>婚姻状况：</strong></td>
+      <td>未婚</td>
+      <td class="alignR"><strong>学　　历：</strong></td>
+      <td>专科</td>
+    </tr>
+    <tr>
+      <td class="alignR"><strong>现居住地：</strong></td>
+      <td>斗门</td>
+      <td class="alignR"><strong>工作年限：</strong></td>
+      <td>3年</td>
+    </tr>
+    <tr>
+      <td class="alignR"><strong>当前情况：</strong></td>
+      <td>离职</td>
+      <td class="alignR"><strong>目前行业：</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="alignR"><strong>技术职称：</strong></td>
+      <td>初级专业职称</td>	
+      <td class="alignR"><strong>身&nbsp;&nbsp;份&nbsp;&nbsp;证：</strong></td>
+      <td>440902199209142814</td>
+    </tr>
+  </table>
+</div>
+<div id="base_edulanguage" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="thead">
+  <tr>
+    <th><a onclick="javascript:setShowList($(this),$('#school'));" title="院校及语言">+ 院校及语言</a></th>
+</tr>
+</table>
+<table id="school" width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+  <tr>
+    <td width="14%" class="alignR"><strong>毕业学校：</strong></td>
+    <td width="36%">广东金融学院</td>
+    <td width="14%" class="alignR"><strong>专　　业：</strong></td>
+    <td width="36%">计算机及应用</td>
+  </tr> 
+  <tr>
+    <td class="alignR"><strong>毕业时间：</strong></td>
+    <td>2016 年 1月</td>
+    <td class="alignR"><strong>计算机水平：</strong></td>
+    <td>优秀</td>
+  </tr> 
+  <tr>
+    <td class="alignR"><strong>国语水平：</strong></td>
+    <td>精通</td>
+    <td class="alignR"><strong>粤语水平：</strong></td>
+    <td>精通</td>
+  </tr> 
+  <tr>
+    <td class="alignR"><strong>外语种类：</strong></td>
+    <td>英语水平良好</td>
+    <td class="alignR"><strong>外语种类：</strong></td>
+    <td></td>
+  </tr>   
+</table>
+</div>
+
+<div id="qzyx" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="thead">
+  <tr>
+    <th><a onclick="javascript:setShowList($(this),$('#gzyx_s'));" title="求职意向">+ 求职意向</a></th>
+</tr>
+</table>
+<table id="gzyx_s" width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+	<tr>
+		<td width="14%" class="alignR"><strong>求职类型：</strong></td>
+		<td width="36%">
+			专职		
+		</td>
+		<td width="14%" class="alignR"><strong>期望月薪：</strong></td>
+		<td width="36%">5000-7000元</td>
+	</tr>
+	<tr>
+		<td class="alignR"><strong>具体职位：</strong></td>
+		<td colspan="3">IT&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="alignR"><strong>希望岗位：</strong></td>
+		<td colspan="3">不限
+		</td>
+	</tr>	
+	<tr>
+		<td class="alignR"><strong>希望地区：</strong></td>
+		<td>不限
+		</td>
+		<td class="alignR"><strong>希望行业：</strong></td>
+		<td>不限
+		</td>			
+	</tr>
+</table>
+</div>
+
+
+<div id="jyjl" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="thead">
+  <tr>
+    <th colspan="4"><a onclick="javascript:setShowList($(this),$('#jyjl_s'));" title="教育经历 ( 1 项)">- 教育经历 ( 1 项)</a></th>
+</tr>
+</table>
+<table id="jyjl_s" width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+
+  <tr>
+    <td colspan="4" style="background:#f8f8f8;"><strong>广东金融学院</strong>&nbsp;&nbsp;(2012-06-27&nbsp;至&nbsp;2015-06-26)</td>
+  </tr>
+  <tr>
+    <td width="14%" class="alignR"><strong>学历：</strong></td>
+    <td width="36%">专科</td>
+	<td width="14%" class="alignR"><strong>专业名称：</strong></td>
+	<td width="36%">计算机应用</td>
+  </tr>
+  <tr>
+    <td width="14%" valign="top" class="alignR">简要说明：</td>
+    <td colspan="3">J2SE方面：  熟练掌握Java基础,集合框架， I/O流，多线程，反射,Sockte,xml解析方式等知识 。<br>J2EE方面：  熟练使用 html/html5，div+css,,JavaScript,Jquery ajax<br>             熟练使用JSP, Servlet/Servlet3.0, EL JSTL, JDBC ,DWR,Log4j技术 。 <br>             熟练使用Sping框架技术,能熟练与其他轻量级框架(ibatis/mybaits,Hibernate,SpringMVC,Struts2)进行组<br>             合开发,熟悉框架的工作原理。<br>             熟悉ant,svn版本管理工具 <br>熟悉使用JavaEE规范技术中常用的技术，JDBC,JNDI,JTA,JAVAEmail,Web services等。<br>数据库方面：熟悉关系型数据库原理，熟练使用sql server ,Oracle，MySql数据库,SQL数据优化等。<br>熟悉计算机组成,操作系统，计算机网络的原理。 <br>熟悉软件开发过程的规范。理解软件生命周期过程ISO/IEC122207-1997,ISO/IEC122207-2008两个标准对开发的指导。<br>熟悉使用UML建模语言并能使用建模工具简单绘制类图，包图，活动图，状态图，部署图等。<br></td>
+  </tr>
+  
+</table>
+</div>
+
+
+
+<div id="pxjl" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="thead">
+  <tr>
+    <th colspan="4"><a onclick="javascript:setShowList($(this),$('#pxjl_s'));" title="培训经历 ( 1 项)">- 培训经历 ( 1 项)</a></th>
+</tr>
+</table>
+<table id="pxjl_s" width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+
+  <tr>
+    <td colspan="4" style="background:#f8f8f8;"><strong>英语口语</strong>&nbsp;&nbsp;(2014-01-19&nbsp;至&nbsp;2016-07-01)</td>
+  </tr>
+  <tr>
+    <td width="14%" class="alignR"><strong>机构名称：</strong></td>
+    <td width="36%">西点英语培训机构</td>
+    <td width="14%" class="alignR"><strong>获取证书：</strong></td>
+    <td width="36%"></td>
+  </tr>
+  <tr>
+    <td width="14%" valign="top" class="alignR"><strong>简要说明：</strong></td>
+    <td colspan="3"></td>
+  </tr>	
+  
+</table>
+</div>
+ 
+
+
+<div id="gzjl" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="thead">
+  <tr>
+    <th colspan="4"><a onclick="javascript:setShowList($(this),$('#gzjl_s'));" title="工作经历 ( 2 项)">- 工作经历 ( 2 项)</a></th>
+</tr>
+</table>
+<table id="gzjl_s" width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+
+  <tr>
+    <td colspan="4" style="background:#f8f8f8;"><strong>东莞市昊科计算机软件科技有限公司</strong>&nbsp;&nbsp;(2016-08-01&nbsp;至&nbsp;2017-07-25)</td>
+
+  </tr>
+  <tr>
+    <td width="14%" class="alignR"><strong>担任职位：</strong></td>
+    <td width="36%">Java程序员</td>
+    <td width="14%" class="alignR"><strong>在职情况：</strong></td>
+    <td width="36%">离职</td>
+  </tr>
+  <tr>
+    <td width="14%" valign="top" class="alignR"><strong>工作描述：</strong></td>
+    <td colspan="3">项目名称：天商惠民&乐享动力<br>软件环境：Mysql Tomcat7.0 <br>开发工具：Myeclipse8.6 Mysql  Tomcat6.0 <br>项目描述：本项目项目是类似于淘宝购物的多用型行商城网站，商城品展示,会员注册购物，会员开店。等众多模块，其中比较有特色的是该网站是一个返利性平台，会员消费,推荐可以获得积分赠送。积分可以转化为金额体现。整合主流的多种支付方式外,还提供多种消费，支付模式，如线上购物线下支付，线下商品线上支付，上传支付凭证确认支付，APP端二维码扫描支付。<br>主要框架技术	Spring MVC + Spring + jdbc+Quartz 等。&#160;<br>负责模块：	在该项目中负责编写商城品展示,会员注册购物，会员开店,整合支付宝，微信支付支付等。</td>
+  </tr>	
+
+  <tr>
+    <td colspan="4" style="background:#f8f8f8;"><strong>广东拓扑中润科技发展有限公司</strong>&nbsp;&nbsp;(2014-05-18&nbsp;至&nbsp;2016-07-13)</td>
+
+  </tr>
+  <tr>
+    <td width="14%" class="alignR"><strong>担任职位：</strong></td>
+    <td width="36%">Java工程师</td>
+    <td width="14%" class="alignR"><strong>在职情况：</strong></td>
+    <td width="36%">离职</td>
+  </tr>
+  <tr>
+    <td width="14%" valign="top" class="alignR"><strong>工作描述：</strong></td>
+    <td colspan="3">项目名称： 人力资源管理系统<br>开发工具   visual studio SQLSERVER2008 IIS7.0<br>项目描述：	该项目为公司自研发的项目，原系统为C/S架构。为适应公司业务发展方便管理，改版成B/S架构一个项目。该项目包含了 人事档案，保险管理，合同管理,考勤管理,薪酬管理,饭堂消费管理等多个模块。并且整合了工厂人员，车辆的出入管理。<br>主要框架技术	.net MVC4框架等。&#160;<br>负责模块：	本人在该项目中参与了考勤管理,薪酬管理，保险管理的模块PC端开发。同时也兼起了采用HTML5技术开发了安卓APP 方便员每月工查询考勤，工资信息。<br><br>项目名称： 拓扑信息化系统<br>软件环境： sql server2008  Tomcat7.0 <br>开发工具： Myeclipse8.6 sql server2008 Tomcat6.0 <br>项目描述： 本项目包括信息平台,个人办公,客户管理,工作流程,网络硬盘,项目管理，待办事务,合同管理,行政办公,手机短信置，数据库管理，数据权限管理等模块<br>主要框架技术：Spring MVC + Spring + Hibernate + Apache Shiro + Activiti<br>负责模块：在该项目中负责编写工作流程,网络硬盘,项目管理，待办事务,合同管理等模块编码。<br><br></td>
+  </tr>	
+  
+</table>
+</div>
+ 
+
+<div id="grms" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="thead">
+  <tr>
+    <th colspan="4"><a onclick="javascript:setShowList($(this),$('#grms_s'));" title="个人描述">+ 个人描述</a></th>
+</tr>
+</table>
+<table id="grms_s" width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+<tr>
+	<td class="area">1.对工作认真负责，做事细心，勤奋上进，能吃苦耐劳，有良好的职业素质。 2.具有较强的团队精神，有良好的组织、协调和沟通能力。 3.为人性格开朗、热情大方、兴趣广泛、做事有耐心、经得起困难的考验，希望能凭借我的能力加盟贵公司。<br>工作能力及其他专长：<br>1、出色的沟通技巧.<br>2、出色的组织，执行能力.<br>3、本人思维敏捷、责任心强、富有团队合作持之以恒的精神.<br>4、具有较强的沟通能力和团队合作精神，责任心强，有一定的管理能力。<br>5、喜欢听音乐，运动(如游泳，爬山，羽毛球)</td>
+</tr>         
+</table>
+</div>
+
+<div id="wyjl" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="thead">
+  <tr>
+    <th colspan="4"><a onclick="javascript:setShowList($(this),$('#wyjl_s'));" title="外语简历">- 外语简历</a></th>
+</tr>
+</table>
+<table id="wyjl_s" width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+<tr>
+	<td class="area"></td>
+</tr>         
+</table>
+</div>
+
+<div id="base_link" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="thead">
+  <tr>
+    <th>+ 联系方式</th>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+	<tr>
+		<td width="14%" class="alignR"><strong>联系电话：</strong></td>
+		<td width="36%">18664115280</td>
+		<td width="14%" class="alignR"><strong>E-mail：</strong></td>
+		<td width="36%">496651115@qq.com</td>
+	</tr>
+	<tr>
+		<td class="alignR"><strong>移动电话：</strong></td>
+		<td>18664115280&nbsp;</td>	
+		<td class="alignR"><strong>QQ/MSN：</strong></td>
+		<td>qq 496651115&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="alignR"><strong>邮政编码：</strong></td>
+		<td>&nbsp;</td>
+		<td class="alignR"><strong>个人主页：</strong></td>
+		<td>&nbsp;</td>		
+	</tr>
+	<tr>
+		<td class="alignR"><strong>通讯地址：</strong></td>
+		<td colspan="3">&nbsp;</td>		
+	</tr>
+</table>
+</div>
+
+</div>
+
+</td></tr></table>,
+
+
+</div>
+</body>
+</html>

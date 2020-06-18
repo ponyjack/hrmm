@@ -1,0 +1,507 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "应聘职位：DBA（数据库管理及维护）（珠海）&应聘公司：珠海爱浦京软件技术有限公司&投递时间：2018-06-20&更新时间：2018-06-21",
+      "children": [
+        { "name": "简历与应聘职位匹配度：" },
+        { "name": "72%" },
+        { "name": "朱世武流程状态：     标签：" },
+        {
+          "name": "ID:44307689",
+          "children": [
+            { "name": "目前正在找工作" },
+            { "name": "18578226217" },
+            { "name": "raygtr@126.com" }
+          ]
+        },
+        {
+          "name": "男 | 35岁（1983年3月31日 ） | 现居住 珠海 | 14年工作经验",
+          "children": [
+            { "name": "最近工作&（1年 5个月 ）" },
+            { "name": "职　位：" },
+            { "name": "运维工程师" },
+            { "name": "公　司：" },
+            { "name": "珠海筑巢科技有限公司" },
+            { "name": "行　业：" },
+            { "name": "互联网/电子商务" },
+            { "name": "最高学历/学位" },
+            { "name": "专　业：" },
+            { "name": "计算机信息管理" },
+            { "name": "学　校：" },
+            { "name": "西安电子科技大学" },
+            { "name": "学历/学位：" },
+            { "name": "大专" }
+          ]
+        },
+        {
+          "name": "个人信息",
+          "children": [
+            { "name": "户口/国籍：" },
+            { "name": "珠海" },
+            { "name": "婚姻状况：" },
+            { "name": "已婚" }
+          ]
+        },
+        {
+          "name": "求职意向",
+          "children": [
+            { "name": "期望薪资：" },
+            { "name": "16000-28000元/月" },
+            { "name": "地点：" },
+            { "name": "珠海 中山 深圳 广州" },
+            { "name": "职能/职位：" },
+            {
+              "name": "数据库工程师/管理员  系统工程师  信息技术经理/主管  信息技术专员  技术支持/维护经理   运维工程师"
+            },
+            { "name": "行业：" },
+            {
+              "name": "计算机软件 计算机硬件 计算机服务(系统、数据服务、维修)"
+            },
+            { "name": "到岗时间：" },
+            { "name": "1个月内" },
+            { "name": "工作类型：" },
+            { "name": "全职" },
+            { "name": "自我评价：" },
+            {
+              "name": "10年以上运维及数据库管理经验，曾为电力调度处处理网络安全问题， 英语口语流利。&计算机技能:&软件工程师中级及Oracle OCP证书&熟悉：Linux系统下Python、Shell与Linux服务器管理(CentOS为主)，能够使用ansible 与 shell进行自动化管理；docker集群(kubernetes实现)熟悉Oracle管理与调优；熟悉Mysql(体系架构及运行原理，高可用及性能调优，SQL优化),熟悉GreenPlum原理及调优MongoDB数据库设计以及群集与Redis；有部署管理大型服务器集群经验(基于tensorflow的深度学习项目)，熟悉Kafka+zookeeper消息系统的集群搭建与维护，elasticsearch优化！&熟悉Azure 与 AWS .&工作踏实，严于律己，勇于创新，团体合作精神及敬业精神强。自学能力强，擅于学习新知识，注重理论结合实践。能根据企业的需求及行业发展动态，迅速调整自己的知识结构与技能。本人做事细心,责任心强,沟通好，勤奋踏实且不怕困难自信的工作态度。"
+            }
+          ]
+        },
+        {
+          "name": "工作经验",
+          "children": [
+            { "name": "2016/8-2018/1" },
+            { "name": "珠海筑巢科技有限公司 (1年 5个月 )" },
+            { "name": "互联网/电子商务|50-150人|上市公司" },
+            { "name": "研发部" },
+            {
+              "name": "运维工程师",
+              "children": [
+                { "name": "工作描述：" },
+                {
+                  "name": "1,作负责公司及子公司所有Linux服务器运维工作，数据库优化，系统备份还原&2,服务器安全保障，确保公司所有生产服务器免受入侵攻击&3,数据库性能调优及容灾管理，MySQL 性能优化(SQL优化及软硬件优化)与 mongodb 数据库的性能调优以及集群规划&4,技术培训, 针对技术人员对MySQL与MongoDB数据库理解的不足进行内部培训，从而提高开发人员对数据库语句优化能力&5,运维开发，利用现有的运维工具利用shell,python等编程语言开发出使用更便捷的工具&6,AWS G2系列服务器集群运维部署工作(基于tensorflow 的深度学习项目)，elasticsearch优化"
+                }
+              ]
+            },
+            { "name": "2012/5-2016/4" },
+            { "name": "艾酷逻技(北京)科技有限公司珠海分公司 (3年 11个月 )" },
+            { "name": "计算机硬件|50-150人|外资(欧美)" },
+            { "name": "QATeam" },
+            {
+              "name": "系统工程师",
+              "children": [
+                { "name": "工作描述：" },
+                {
+                  "name": "1,负责公司Lab机房管理包括新机房建设，针对QA任务为QA Team搭建种不同的测试环境，管理公司NIS，DNS，LDAP，NTP等各种不同服务器(Centos Linux为主)及全公司网络&2,负责公司产品质量软件测试，编写test case文档以及Bug 管理。利用shell以及python实现test automation&3,存储架构设计与技术支持，为公司客户实现Oracle数据库迁移以及产品技术支持工作"
+                }
+              ]
+            },
+            { "name": "2011/10-2012/4" },
+            { "name": "珠海金山办公软件有限公司 (6个月 )" },
+            { "name": "计算机软件|1000-5000人|民营公司" },
+            { "name": "企业云存储" },
+            {
+              "name": "系统工程师",
+              "children": [
+                { "name": "工作描述：" },
+                {
+                  "name": "金山企业云存储系统运维及优化工作&1,Linux脚本自动化(shell, Python为主)&2,MySQL优化，包括SQL优化，高可用等&3,企业客户技术支持等工作"
+                }
+              ]
+            },
+            { "name": "2009/12-2011/9" },
+            { "name": "南方数字娱乐公共服务中心 (1年 9个月 )" },
+            { "name": "影视/媒体/艺术/文化传播|50-150人|事业单位" },
+            { "name": "技术部" },
+            {
+              "name": "系统工程师",
+              "children": [
+                { "name": "工作描述：" },
+                {
+                  "name": "机房建设&负责全公司高端影视设备系统维护（其中包括： 40台RedHat linux工作站及Infiniband网络），管理大型FC SAN存储设备（基于昆腾 Stornext与Brocade 5100光纤交换机及Infiniband网络），以及设备采购、资产管理等工作&工作中使用主要技术有：bash shell 脚本编写，mysql数据库维护（高可用与性能调优），linux系统及网络troubleshooting"
+                }
+              ]
+            },
+            { "name": "2005/4-2009/10" },
+            { "name": "澳之宝玻璃钢纤维制品有限公司 (4年 6个月 )" },
+            { "name": "贸易/进出口|50-150人|民营公司" },
+            { "name": "IT部" },
+            {
+              "name": "信息技术专员",
+              "children": [
+                { "name": "工作描述：" },
+                {
+                  "name": "负责全公司的计算机软硬件维护、公司内部局域网维护与局域网安全&公司ERP服务器与数据库系统（基于linux + apache + MySQL）的安全维护等工作。"
+                }
+              ]
+            },
+            { "name": "2004/4-2004/12" },
+            { "name": "珠海市清华科技园鸿瑞软件技术有限公司 (8个月 )" },
+            { "name": "计算机服务(系统、数据服务、维修)|50-150人|民营公司" },
+            { "name": "研发部" },
+            {
+              "name": "技术支持高级工程师",
+              "children": [
+                { "name": "工作描述：" },
+                {
+                  "name": "负责公司网络安全产品售后技术支持与产品实施发；并对公司产品使用客户进行技术培训；公司主要专注于电网电力调度系统网络安全范围!在电网安全系统中处于国内领先地位；同时得到多家电网公司的肯定&曾参与项目：&广东省南方电网总调度计量处系统工程实施、该项目中主要负责公司产品实施工作并与西门子公司合作编写通信程序！开发工具：VB 6数据库是ORACLE 8i系统运行平台为Tru64 UNIX 与 Windows 2000 server。&广东省南方电网总调度通信处EMS系统工程实施、项目中主要负责产品实施与编写产品系统程序、并参与EMS系统计划值下发模块程序的编写。开发工具：VB 6与标准C语言。数据库：SQL SERVER与ORACLE 8i 系统运行平台为Tru64 UNIX 与Windows 2000。&陕西省省电力调度中心通信处DMIS系统、咸阳市DMIS系统、负责产品实施与程序开发！开发语言为： 标准C语言 运行平台：Solaris 8系统。&河南省省电力调度中心通信处DMIS系统，南阳市远动处SCADA系统,本人为该项目产品实施计划设计与主技术人员。&重庆市全市电力局网络改造，本人负责产品实施与组织企业人员培训工作。&山西省全省11个城市电力调度 网络改造，新产品实施与售前技术评估。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "教育经历",
+          "children": [
+            { "name": "2008/3-2010/7" },
+            { "name": "西安电子科技大学" },
+            { "name": "大专|计算机信息管理" }
+          ]
+        },
+        {
+          "name": "技能特长&（包括IT技能、语言能力、证书、成绩、培训经历）",
+          "children": [
+            {
+              "name": "▲&技能/语言",
+              "children": [
+                { "name": "C/C++" },
+                { "name": "一般" },
+                { "name": "Oracle" },
+                { "name": "熟练" },
+                { "name": "Linux" },
+                { "name": "精通" },
+                { "name": "SQL" },
+                { "name": "熟练" },
+                { "name": "Scripts" },
+                { "name": "熟练" },
+                { "name": "英语" },
+                { "name": "良好" }
+              ]
+            },
+            {
+              "name": "▲&证书",
+              "children": [
+                { "name": "2015/2" },
+                { "name": "Oracle Certified Professional 11G" },
+                { "name": "2011/5" },
+                { "name": "ISO体系内审员/注册审核员" }
+              ]
+            },
+            {
+              "name": "▲&培训经历",
+              "children": [
+                { "name": "2014/9-2014/11" },
+                {
+                  "name": "Oracle Certified Professional",
+                  "children": [
+                    { "name": "培训机构：" },
+                    { "name": "行知教育" },
+                    { "name": "培训地点：" },
+                    { "name": "广州暨南大学" },
+                    { "name": "培训描述：" },
+                    {
+                      "name": "Oracle数据库认证专家（Oracle Certified Professional）是Oracle公司的Oracle数据库DBA（Database Administrator 数据库管理员)认证课程，通过这个考试， 说明可以管理大型数据库， 或者能够开发可以部署到整个企业的强大应用。"
+                    }
+                  ]
+                },
+                { "name": "2010/10-2011/5" },
+                {
+                  "name": "ISO27001信息安全内审员",
+                  "children": [
+                    { "name": "培训机构：" },
+                    { "name": "广州赛宝认证中心服务有限公司" },
+                    { "name": "培训地点：" },
+                    { "name": "珠海" },
+                    { "name": "培训描述：" },
+                    {
+                      "name": "信息安全管理实用规则ISO/IEC27001的前身为英国的BS7799标准，该标准由英国标准协会（BSI）于1995年2月提出，并于1995年5月修订而成的。1999年BSI重新修改了该标准。BS7799分为两个部分：&BS7799-1，信息安全管理实施规则&BS7799-2，信息安全管理体系规范。&第一部分对信息安全管理给出建议，供负责在其组织启动、实施或维护安全的人员使用；第二部分说明了建立、实施和文件化信息安全管理体系（ISMS）的要求，规定了根据独立组织的需要应实施安全控制的要求。&信息安全是通过实现一组合适控制获得的。控制可以是策略、惯例、规程、组织结构和软件功能。需要建立这些控制，以确保满足该组织的特定安全目标。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "附加信息",
+          "children": [
+            {
+              "name": "▲&附件",
+              "children": [
+                { "name": "附件：" },
+                { "name": "Oracle Database SQL Certified Expert&查看>" },
+                { "name": "附件：" },
+                {
+                  "name": "Oracle Database 11g Administrator Certified Profes&查看>"
+                },
+                { "name": "附件：" },
+                {
+                  "name": "Oracle Database 11g Administrator Certified Associ&查看>"
+                }
+              ]
+            }
+          ]
+        },
+        { "name": "Matching Score:" },
+        { "name": "72%" },
+        { "name": "Zhu,shiwuProcess Status：     Tag:" },
+        {
+          "name": "ID:44307689",
+          "children": [
+            { "name": "I'm looking for jobs now" },
+            { "name": "18578226217" },
+            { "name": "raygtr@126.com" }
+          ]
+        },
+        {
+          "name": "Male | 35 Years old（1983.3.31） | Living in Zhuhai | 14 Years",
+          "children": [
+            { "name": "Recent Work&(1 year )" },
+            { "name": "Position:" },
+            { "name": "IT Specialist" },
+            { "name": "Company:" },
+            { "name": "Nesting Corporation" },
+            { "name": "Industry:" },
+            { "name": "Internet/E-commerce" },
+            { "name": "Highest Degree" },
+            { "name": "Major:" },
+            { "name": "Computer Information Management" },
+            { "name": "School:" },
+            { "name": "Xian Electronics Science and Technology University" },
+            { "name": "Degree:" },
+            { "name": "Junior High and Below" }
+          ]
+        },
+        {
+          "name": "Basic Info.",
+          "children": [
+            { "name": "Hukou/Nation:" },
+            { "name": "Zhuhai" },
+            { "name": "Marital Status:" },
+            { "name": "Married" }
+          ]
+        },
+        {
+          "name": "Job Preferences",
+          "children": [
+            { "name": "Target Salary:" },
+            { "name": "￥ 16000-28000 Month" },
+            { "name": "Location:" },
+            { "name": "Zhuhai Zhongshan Shenzhen Guangzhou" },
+            { "name": "Function/Position:" },
+            {
+              "name": "Database Engineer/Administrator  System Engineer  IT Manager/Supervisor  IT Specialist  Technical Support/Maintenance Manager   engineer"
+            },
+            { "name": "Industry:" },
+            {
+              "name": "Computers,Software Computers, Hardware Computer Services"
+            },
+            { "name": "Duty Time:" },
+            { "name": "within 1 month" },
+            { "name": "Job Type:" },
+            { "name": "Full-time" },
+            { "name": "Self Review:" },
+            {
+              "name": "Familiar with C language, BASH Shell and Python;&Proficient in Linux ,System management;  Able to use shell and ansible for system automation;&Familiar with Oracle, MySQL (Data backup recover，performance tuning and High Availability); Docker cluster *( kubernetes implement)&Familiar with Azure and AWS."
+            }
+          ]
+        },
+        {
+          "name": "Work Experience",
+          "children": [
+            { "name": "2016/8-2017/8" },
+            { "name": "Nesting Corporation (1 year )" },
+            { "name": "Internet/E-commerce|50-150 people|Private Comp." },
+            { "name": "Development Department" },
+            {
+              "name": "IT Specialist",
+              "children": [
+                { "name": "Description:" },
+                {
+                  "name": "1.In charge of solving servers’problems,optimizing database,backup and recovering system of the headquarters and the brunch of the company.&2.Ensure the safety of the production servers to avoid attack.&3.Database performance tuning, kafka cluster, Java server tuning, MySQL, performance tuning of mongodb database and planning of cluster.&4.Do the technology training for the development department and team building.&5.Developing operation during shell, python languages.&6.Operating and maintenance for AWS G2 series server cluster (base on the Deep Learning  project of tensorflow).&7.Elasticsearch tuning."
+                }
+              ]
+            },
+            { "name": "2012/5-2016/4" },
+            { "name": "Arkologic Corporation (3 years and 11 months )" },
+            {
+              "name": "Computers, Hardware|50-150 people|Foreign Comp.(Eur./N.Amer.)"
+            },
+            { "name": "QA Team" },
+            {
+              "name": "System Manager/Webmaster",
+              "children": [
+                { "name": "Description:" },
+                {
+                  "name": "1.Responsible for managing 100 Linux servers, 13 Storage servers and 2 Solaris servers.&2.Responsible for products’ testing, writing test case; including stability test, performance test and automatic test (The main use of bash shell and python).&3.Storage architecture design and technical support for implement Oracle database migration and product technical support for the customers."
+                }
+              ]
+            },
+            { "name": "2011/10-2012/4" },
+            { "name": "Kingsoft Office Corporation (6 months )" },
+            { "name": "Computers,Software|500-1000 people|Private Comp." },
+            { "name": "Enterprise Cloud Storage" },
+            {
+              "name": "System Engineer",
+              "children": [
+                { "name": "Description:" },
+                {
+                  "name": "1.Linux system script automation(base on shell or python).&2.MySQL performance turning and High availability.&3.Customs technical support."
+                }
+              ]
+            },
+            { "name": "2009/12-2011/9" },
+            {
+              "name": "Southern Digital Entertainment Public Service Cent (1 year and 9 months )"
+            },
+            {
+              "name": "Flim & Television/Media/Arts/Communication|50-150 people|NPO(non-profit organization)"
+            },
+            { "name": "Technology Department" },
+            {
+              "name": "IT Manager/Supervisor",
+              "children": [
+                { "name": "Description:" },
+                {
+                  "name": "1.Maintenance the entire center of high-tech.&2.Maintenance  Video equipment systems (Including Flame, Smoke, Lustre etc. 40 Linux workstations  and infiniband network as well.&3.Resolving issues in FC SAN Storage equipment (basic on Quantum’s Stornext and Brocade 5100 Fibre Channel switch) and network (including infiniband network) connectivity issues.&4.Resolving workstation operating system, server, optimize MySQL database and network trouble-shooting.&5.Equipment sourcing and hardware asset tracking."
+                }
+              ]
+            },
+            { "name": "2005/4-2009/10" },
+            { "name": "AOZBAO Corporation (4 years and 6 months )" },
+            { "name": "Trading/Import & Export|50-150 people|Private Comp." },
+            { "name": "IT" },
+            {
+              "name": "IT Manager/Supervisor",
+              "children": [
+                { "name": "Description:" },
+                {
+                  "name": "1.Dealing with all company’s IT environment, such as: server, network, storage, database optimize backup and recovery.&2.Resolving security in ERP and database (MySQL) systems."
+                }
+              ]
+            },
+            { "name": "2004/3-2004/12" },
+            { "name": "HongRui Corporation (9 months )" },
+            { "name": "Computers, Hardware|50-150 people|Private Comp." },
+            { "name": "Technology Department" },
+            {
+              "name": "IT Specialist",
+              "children": [
+                { "name": "Description:" },
+                {
+                  "name": "1.Responsible for network security for whole company’s IT environment.&2.Implementation of after-sale technical support for clients.&3.Products development and updating.&4.Training customers for using the products.&5.The projects I took part in were as below:&i.Measurement System in Southern Power Grid for total implementation of the project.&ii.Measurement System in Southern Power Grid for the total dispatch communications systems at the EMS implementation.&iii.Measurement System in Shanxi Provincial for Electric Power Dispatching Center.&iv.Measurement System in Henan Provincial Electric Power Dispatching Center Communications Office DMIS system.&v.Nanyang remote SCADA system.&vi.Measurement System in Chongqing for the transformation of Electric Power Network."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Education",
+          "children": [
+            { "name": "2008/3-2010/3" },
+            { "name": "Xian Electronics Science and Technology University" },
+            {
+              "name": "Junior High and Below|Computer Information Management",
+              "children": [
+                { "name": "Description:" },
+                { "name": "junior college" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skills & Speciality&(Including IT skills、languages、certifications and trainings)",
+          "children": [
+            {
+              "name": "▲&Skills/Languages",
+              "children": [
+                { "name": "C/C++" },
+                { "name": "Average" },
+                { "name": "Oracle" },
+                { "name": "Advanced" },
+                { "name": "Linux" },
+                { "name": "Expert" },
+                { "name": "SQL" },
+                { "name": "Advanced" },
+                { "name": "Scripts" },
+                { "name": "Advanced" },
+                { "name": "English" },
+                { "name": "Good" }
+              ]
+            },
+            {
+              "name": "▲&Certifications",
+              "children": [
+                { "name": "2015/2" },
+                { "name": "Oracle Certified Professional 11G" },
+                { "name": "2011/5" },
+                { "name": "ISO Internal Auditor/Registered Auditor" }
+              ]
+            },
+            {
+              "name": "▲&Trainings",
+              "children": [
+                { "name": "2014/9-2014/12" },
+                {
+                  "name": "OCP 11G",
+                  "children": [
+                    { "name": "Institution:" },
+                    { "name": "Eingzhi Education" },
+                    { "name": "Location:" },
+                    { "name": "JInan University Guangzhou" }
+                  ]
+                },
+                { "name": "2010/10-2011/5" },
+                {
+                  "name": "ISO27001/BS 7799 information security management",
+                  "children": [
+                    { "name": "Institution:" },
+                    { "name": "CEPREI Certification Body" },
+                    { "name": "Location:" },
+                    { "name": "Zhuhai" },
+                    { "name": "Description:" },
+                    {
+                      "name": "ISO/IEC 27001:2005 (formerly BS 7799-2:2002) Specification for Information Security Management&ISO/IEC 27002:2005 (previously named ISO/IEC 17799:2005) Code of practice for Information Security Management"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Additional Info.",
+          "children": [
+            {
+              "name": "▲&Attachment",
+              "children": [
+                { "name": "Name:" },
+                { "name": "Oracle Database SQL Certified Expert&View>" },
+                { "name": "Name:" },
+                {
+                  "name": "Oracle Database 11g Administrator Certified Profes&View>"
+                },
+                { "name": "Name:" },
+                {
+                  "name": "Oracle Database 11g Administrator Certified Associ&View>"
+                }
+              ]
+            },
+            {
+              "name": "▲&Others",
+              "children": [
+                { "name": "Topic:" },
+                { "name": "SKILLS & AWARDS" },
+                { "name": "Description:" },
+                {
+                  "name": "Oracle Database SQL Certified Expert&Oracle Database 11g Administrator Certified Professional&Oracle Database 11g Administrator Certified Association&Familiar with C language, BASH Shell and Python.&Proficient in Linux (include High Availability use RedHat Cluster Suit), Unix system management.&Familiar with Oracle, MySQL (Data backup recover，performance tuning and High Availability).&Familiar with Elasticsearch , kafka deployment and performance  turning.&Skillful in computer hardware configuration, trouble-shooting."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

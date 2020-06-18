@@ -1,0 +1,8 @@
+django
+gunicorn
+djangorestframework
+markdown       
+django-filter
+drf-writable-nested
+django-url-filter
+psycopg2

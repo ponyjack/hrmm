@@ -1,0 +1,11 @@
+uid: 2005221 
+pwd: 7r6QDj 
+测试用量：1000
+
+
+
+【注】剩余用量可通过以下两种方式获得：
+
+1）api接口的返回字段usage_remaining；
+
+2）通过网页端访问http://www.resumesdk.com/api/query_user查询；

@@ -1,0 +1,63 @@
+version: '3'
+
+services:
+  djangoapp:
+    build: 
+      context: ../
+      dockerfile: docker/Dockerfile
+    container_name: djangoapp
+    volumes:
+      - ../hrmm:/djangoapp # <-- bind the application code
+      - ./static_volume:/static  # <-- bind the static files
+      - ./media_volume:/media  # <-- bind the media files
+
+    command: bash -c "
+      python manage.py collectstatic --no-input
+      && python manage.py migrate
+      && python manage.py runserver 0.0.0.0:8000"
+
+    depends_on:
+      - djangopostgres
+
+  nginx:
+    image: nginx:1.17
+    container_name: nginx
+    ports:
+      - 80:80
+    volumes:
+      - ./nginx:/etc/nginx/conf.d
+      - ./logs/nginx:/var/log/nginx
+      - ./static_volume:/var/static  # <-- bind the static files again so Nginx can share volume
+      - ./media_volume:/var/media  # <-- bind the media files again so Nginx can share volume
+    depends_on:  # <-- wait for djangoapp to be "ready" before starting this service
+      - djangoapp
+      - pgadmin
+    
+
+  djangopostgres:
+    container_name: djangopostgres
+    image: postgres:11
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-changeme}
+      PGDATA: /data/postgres
+    volumes:
+        - postgres:/data/postgres
+    ports:
+      - "5432:5432"
+  
+  pgadmin:
+    container_name: pgadmin_container
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_DEFAULT_EMAIL:-pgadmin4@pgadmin.org}
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_DEFAULT_PASSWORD:-admin}
+    volumes:
+        - pgadmin:/root/.pgadmin
+    depends_on:
+      - djangopostgres
+
+
+volumes:
+  postgres:
+  pgadmin:

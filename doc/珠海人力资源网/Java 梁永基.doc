@@ -1,0 +1,346 @@
+
+
+
+
+<!--html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40"-->
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gbk">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<title>简历预览</title>
+<script language="JavaScript" type="text/javascript" src="/js/jquery/jquery.js"></script>
+<style media="all">
+body {width:680px;margin:0;padding:0; font-size:12px; color:#666; font-family:Arial, Helvetica, sans-serif}
+#header table {border-bottom:#06C 2px solid;margin-bottom:1px;}
+.nameBox {
+	padding-bottom:10px;
+}
+.nameBox span { color:#444}
+.nameBox #userName {font-size:1.8em; font-family:"微软雅黑","yahei","宋体";color:#06C}
+.nameBox span {margin-right:10px;}
+h1 {font-size:16px;height:40px; line-height:40px;margin:0;padding:0; font-family:"微软雅黑","黑体"; }
+.wrap {margin:0 auto;padding:10px;width:650px; background:#FFF;}
+.unitWrap {width:650px;margin-top:10px; overflow:hidden; clear:both;}
+.first {margin-top:0px;}
+.unitWrap .tbody {border:#DDD 0px solid; }
+.unitWrap .thead {margin-bottom:1px;}
+.unitWrap .thead th
+{padding-left:10px;
+ text-align:left;
+ font-size:14px;
+ height:30px; 
+ line-height:30px; 
+ color:#0066cc;
+border-bottom:#06c 1px solid;
+}
+
+.unitWrap .tbody td {padding-left:0px;height:30px; line-height:30px; border-bottom:#DDD 1px dotted; color:#555555}
+.unitWrap table td.area {line-height:22px;padding:10px;}
+.unitWrap table td.alignR {padding-left:0;color:#666; font-weight:bold; text-align:right;padding-right:0px;}
+.unitWrap table td.alignR strong {color:#777;}
+
+.btnBox {text-align:center;padding:20px 0 40px;}
+.btnBox a {display:inline-block; padding:0 15px; height:30px; line-height:30px; text-decoration:none;margin-right:10px; font-size:14px;}
+.btnBox a.print {background:#06c; color:#FFF;padding:0 20px}
+.btnBox a.print:hover {background:#e86005;}
+.btnBox a.close {background:#CCC; color:#000;}
+.btnBox a.close:hover {background:#DDD; color:#000;}
+strong { color:#494949;}
+</style>
+<style media="print">
+.btnBox {display:none;}
+.unitWrap .tbody td {padding-left:10px;height:24px; line-height:24px; border-bottom:#CCCCCC 1px solid;}
+.nameBox #userName {font-size:1.8em; font-family:"微软雅黑","yahei","黑体";color:#000000}
+</style>
+</head>
+</head>
+<body>
+<div class="wrap">
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" border="0" width="650">
+<tr><td>
+
+<div class="wrap">
+<div id="header" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" id="headerTable">
+
+  <tr>
+    <td width="72%" height="20" class="topBar" style="border-bottom:#DDD 1px solid">&nbsp;www.zh-hr.com</td>
+    <td width="28%" rowspan="2" align="right"><img src="http://www.zh-hr.com/style/images/logo_01.gif" height="40" /></td>
+  </tr>
+  <tr>
+    <td class="topBar">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="nameBox">
+		<span><strong id="userName">&nbsp;梁永基</strong> &nbsp;的简历</span>
+		<span>[普通求职]</span>
+		<span>简历编号：998431</span>
+		<span>更新时间：2017-08-28</span></td>
+  </tr>
+</table>
+
+</div>    
+<div id="basic" class="unitWrap first">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+    <tr>
+    <td width="24%" rowspan="7" align="center" valign="top" style="padding-top:10px;">
+							
+								<img src="http://www.zh-hr.com/jsp/person/p_images/photo_default.gif" width="98px" height="124px"/>
+							</td>
+      <td width="15%" class="alignR"><strong>姓　　名：</strong></td>
+      <td width="23%">梁永基</td>
+      <td width="15%" class="alignR"><strong>性　　别：</strong></td>
+      <td width="23%">男</td>
+      
+    </tr>
+    <tr>
+      <td class="alignR"><strong>民　　族：</strong></td>
+      <td>汉族</td>
+      <td class="alignR"><strong>出生日期：</strong></td>
+      <td>1991-08-31</td>
+    </tr>
+    <tr>
+      <td class="alignR"><strong>户　　籍：</strong></td>
+      <td>珠海市</td>
+      <td class="alignR"><strong>身　　高：</strong></td>
+      <td>172cm</td>
+    </tr>
+    <tr>
+      <td class="alignR"><strong>婚姻状况：</strong></td>
+      <td>未婚</td>
+      <td class="alignR"><strong>学　　历：</strong></td>
+      <td>专科</td>
+    </tr>
+    <tr>
+      <td class="alignR"><strong>现居住地：</strong></td>
+      <td>珠海市</td>
+      <td class="alignR"><strong>工作年限：</strong></td>
+      <td>3年</td>
+    </tr>
+    <tr>
+      <td class="alignR"><strong>当前情况：</strong></td>
+      <td>离职</td>
+      <td class="alignR"><strong>目前行业：</strong></td>
+      <td>计算机．互联网</td>
+    </tr>
+    <tr>
+      <td class="alignR"><strong>技术职称：</strong></td>
+      <td>高级专业职称</td>	
+      <td class="alignR"><strong>身&nbsp;&nbsp;份&nbsp;&nbsp;证：</strong></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
+<div id="base_edulanguage" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="thead">
+  <tr>
+    <th><a onclick="javascript:setShowList($(this),$('#school'));" title="院校及语言">+ 院校及语言</a></th>
+</tr>
+</table>
+<table id="school" width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+  <tr>
+    <td width="14%" class="alignR"><strong>毕业学校：</strong></td>
+    <td width="36%">南方学院</td>
+    <td width="14%" class="alignR"><strong>专　　业：</strong></td>
+    <td width="36%">软件技术</td>
+  </tr> 
+  <tr>
+    <td class="alignR"><strong>毕业时间：</strong></td>
+    <td>2010 年 7月</td>
+    <td class="alignR"><strong>计算机水平：</strong></td>
+    <td>良好</td>
+  </tr> 
+  <tr>
+    <td class="alignR"><strong>国语水平：</strong></td>
+    <td>优秀</td>
+    <td class="alignR"><strong>粤语水平：</strong></td>
+    <td>优秀</td>
+  </tr> 
+  <tr>
+    <td class="alignR"><strong>外语种类：</strong></td>
+    <td></td>
+    <td class="alignR"><strong>外语种类：</strong></td>
+    <td></td>
+  </tr>   
+</table>
+</div>
+
+<div id="qzyx" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="thead">
+  <tr>
+    <th><a onclick="javascript:setShowList($(this),$('#gzyx_s'));" title="求职意向">+ 求职意向</a></th>
+</tr>
+</table>
+<table id="gzyx_s" width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+	<tr>
+		<td width="14%" class="alignR"><strong>求职类型：</strong></td>
+		<td width="36%">
+			专职		
+		</td>
+		<td width="14%" class="alignR"><strong>期望月薪：</strong></td>
+		<td width="36%">4500-5000元</td>
+	</tr>
+	<tr>
+		<td class="alignR"><strong>具体职位：</strong></td>
+		<td colspan="3">java程序员&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="alignR"><strong>希望岗位：</strong></td>
+		<td colspan="3">软件工程师/程序员&nbsp;&nbsp;&nbsp;软件测试工程师&nbsp;&nbsp;&nbsp;其他计算机软件类&nbsp;&nbsp;&nbsp;
+		</td>
+	</tr>	
+	<tr>
+		<td class="alignR"><strong>希望地区：</strong></td>
+		<td>珠海市&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+		<td class="alignR"><strong>希望行业：</strong></td>
+		<td>计算机．互联网&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>			
+	</tr>
+</table>
+</div>
+
+
+<div id="jyjl" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="thead">
+  <tr>
+    <th colspan="4"><a onclick="javascript:setShowList($(this),$('#jyjl_s'));" title="教育经历 ( 1 项)">- 教育经历 ( 1 项)</a></th>
+</tr>
+</table>
+<table id="jyjl_s" width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+
+  <tr>
+    <td colspan="4" style="background:#f8f8f8;"><strong>珠海北大青鸟</strong>&nbsp;&nbsp;(2009-08-25&nbsp;至&nbsp;2011-07-25)</td>
+  </tr>
+  <tr>
+    <td width="14%" class="alignR"><strong>学历：</strong></td>
+    <td width="36%">专科</td>
+	<td width="14%" class="alignR"><strong>专业名称：</strong></td>
+	<td width="36%">软件技术</td>
+  </tr>
+  <tr>
+    <td width="14%" valign="top" class="alignR">简要说明：</td>
+    <td colspan="3">培训3学期，java开发人员</td>
+  </tr>
+  
+</table>
+</div>
+
+
+ 
+
+
+<div id="gzjl" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="thead">
+  <tr>
+    <th colspan="4"><a onclick="javascript:setShowList($(this),$('#gzjl_s'));" title="工作经历 ( 1 项)">- 工作经历 ( 1 项)</a></th>
+</tr>
+</table>
+<table id="gzjl_s" width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+
+  <tr>
+    <td colspan="4" style="background:#f8f8f8;"><strong>深圳市中科保计算机有限公司（珠海分部）</strong>&nbsp;&nbsp;(2013-10-01&nbsp;至&nbsp;2017-05-05)</td>
+
+  </tr>
+  <tr>
+    <td width="14%" class="alignR"><strong>担任职位：</strong></td>
+    <td width="36%">程序开发员</td>
+    <td width="14%" class="alignR"><strong>在职情况：</strong></td>
+    <td width="36%">离职</td>
+  </tr>
+  <tr>
+    <td width="14%" valign="top" class="alignR"><strong>工作描述：</strong></td>
+    <td colspan="3">项目名称：珠海市人力资源和社会保障局网上服务平台（https://www.zhldj.gov.cn/zhrsClient/login.jsp）	开发周期:      三年<br>开发工具:	服务器:was,数据库:db2,开发工具:MyEclipse 8.5，Tomcat,svn<br>技术：	B/S,JSP, Servlet, DIV+CSS, JavaScript脚本,db2 数据库<br>项目描述：	社保业务推到网办平台查询，办理，减少大众来回走动到现场来办理。<br>责任描述：	网上办事大厅各项申报及查询业务开发和测试，编写测试文档、操作手册等。<br><br>项目名称：稳岗申报	开发周期:      3个月<br>开发工具:	服务器:was,数据库:db2,开发工具:MyEclipse 8.5，Tomcat,svn<br>技术：	B/S,JSP, Servlet, DIV+CSS, JavaScript脚本,db2 数据库<br>项目描述：	珠海市单位根据上年度的社保缴费情况及裁员率等等,是否能申请稳岗领取补贴<br>责任描述：	网上办事大厅申报开发，内部申报及审核流程开发<br><br>其他项目：劳动系统、居民系统	开发周期:      三年<br>开发工具:	服务器:was,数据库:db2,开发工具:MyEclipse 8.5，Tomcat,svn<br>技术：	B/S,JSP, Servlet, DIV+CSS, JavaScript脚本,db2 数据库<br>项目描述：	系统政策更新及新政策开发<br>责任描述：	根据政策更新或新增，维护及开发系统</td>
+  </tr>	
+  
+</table>
+</div>
+ 
+
+<div id="grms" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="thead">
+  <tr>
+    <th colspan="4"><a onclick="javascript:setShowList($(this),$('#grms_s'));" title="个人描述">+ 个人描述</a></th>
+</tr>
+</table>
+<table id="grms_s" width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+<tr>
+	<td class="area">1. 熟悉DIV+CSS美化界面 ,熟悉JavaScript客户端脚本语言 <br>2. 悉JSP 开发Web应用系统等<br>3. 熟悉db2数据库，能够熟练SQL语句并对<br>4. 掌握JSP/Servlet/JavaBean的网上交易系统<br>5. 掌握MyEclipse 8.5，DB2,，RAD 7等等工具<br>6. 使用过 Struts1/Spring/ Hibernate/Ajax等框架的应用  <br>7. 使用过oracle，SQL Server 2005数据库<br>8. 熟悉SVN，及Tomcat的使用</td>
+</tr>         
+</table>
+</div>
+
+<div id="wyjl" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="thead">
+  <tr>
+    <th colspan="4"><a onclick="javascript:setShowList($(this),$('#wyjl_s'));" title="外语简历">- 外语简历</a></th>
+</tr>
+</table>
+<table id="wyjl_s" width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+<tr>
+	<td class="area"></td>
+</tr>         
+</table>
+</div>
+
+<div id="base_link" class="unitWrap">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="thead">
+  <tr>
+    <th>+ 联系方式</th>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="tbody">
+	<tr>
+		<td width="14%" class="alignR"><strong>联系电话：</strong></td>
+		<td width="36%">13417776845</td>
+		<td width="14%" class="alignR"><strong>E-mail：</strong></td>
+		<td width="36%">516319951@qq.com</td>
+	</tr>
+	<tr>
+		<td class="alignR"><strong>移动电话：</strong></td>
+		<td>&nbsp;</td>	
+		<td class="alignR"><strong>QQ/MSN：</strong></td>
+		<td>516319951&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="alignR"><strong>邮政编码：</strong></td>
+		<td>519000&nbsp;</td>
+		<td class="alignR"><strong>个人主页：</strong></td>
+		<td>&nbsp;</td>		
+	</tr>
+	<tr>
+		<td class="alignR"><strong>通讯地址：</strong></td>
+		<td colspan="3">珠海市南屏成丰园西14号&nbsp;</td>		
+	</tr>
+</table>
+</div>
+
+</div>
+
+</td></tr></table>,
+
+
+</div>
+</body>
+</html>
